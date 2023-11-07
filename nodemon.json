@@ -1,0 +1,11 @@
+{
+    "env" : {
+        "MYSQL_USER" : "root",
+        "MYSQL_PASSWORD" : "@Ri142008",
+        "MYSQL_DATABASE" : "sauvae",
+        "MYSQL_HOST" : "localhost",
+        "MYSQL_PORT" : 3306,
+
+        "JWT_KEY" : "@tkR3GTW!fEs72R$hjEdQ4*(356WWe%4j2yk5y$t#y@y325dhk#guETFh546"
+    }
+}
